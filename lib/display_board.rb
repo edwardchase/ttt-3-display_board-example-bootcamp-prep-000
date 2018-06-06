@@ -2,11 +2,11 @@
 def display_board
   row_1 = ["    ", | ,"    ", | ,"   "];
   row_2 = ['-----------'];
-  print row_1
-  print row_2
-  print row_1
-  print row_2
-  print row_1
+  puts row_1
+  puts row_2
+  puts row_1
+  puts row_2
+  puts row_1
 end
 
 display_board
