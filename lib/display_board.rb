@@ -3,6 +3,9 @@ def display_board
   row_1 = ['   ',' | ','   ',' | ','   '];
   row_2 = ['-----------'];
   print row_1
+  print row_2
+  print row_1
+  print row_2
   print row_1
 end
 
